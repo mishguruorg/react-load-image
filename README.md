@@ -1,6 +1,9 @@
 react-load-image
 =================
 
+__Mish Guru fork__  
+This version supports snapshot testing
+
 This is a fork of https://github.com/hzdg/react-imageloader, however many design changes were made and deprecations fixed so it warranted its own repo/package.
 
 This React component allows you to display

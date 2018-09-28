@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/DeedMob/react-load-image.git"
+    "url": "git://github.com/mishguruorg/react-load-image.git"
   },
   "keywords": [
     "react-component",
@@ -26,9 +26,9 @@
   "author": "David Furlong <david@deedmob.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DeedMob/react-load-image/issues"
+    "url": "https://github.com/mishguruorg/react-load-image/issues"
   },
-  "homepage": "https://github.com/DeedMob/react-load-image",
+  "homepage": "https://github.com/mishguruorg/react-load-image",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.25.0",
