@@ -8,6 +8,7 @@
     "build:commonjs": "babel src --out-dir lib",
     "build": "npm run build:commonjs",
     "prepublish": "npm run build",
+    "postpublish": "git push origin master --tags",
     "watch": "onchange 'src/**/*.js' -- npm run build"
   },
   "pre-commit": [
